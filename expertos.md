@@ -4,8 +4,6 @@
 | Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
 | Martha Hernández | She / Ella  | Cosmos | [@marthah.t91](https://github.com/MarthaHT)| ![](https://avatars.githubusercontent.com/u/79715315?s=400&u=08e53caec09bfdf39c55c664353d217dd2e9bdbe&v=4) |
 
-
-
 | Daniel Vallejo |He / El  | Mazinger Z | [@DanyVeneno](https://github.com/DanyVeneno)| ![](https://avatars.githubusercontent.com/u/89219507?v=4) |
 
 
