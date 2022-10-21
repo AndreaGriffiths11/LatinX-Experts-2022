@@ -12,12 +12,10 @@
 | Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
 | Martha Hernández | She / Ella  | Cosmos | [@marthah.t91](https://github.com/MarthaHT)| ![](https://avatars.githubusercontent.com/u/79715315?s=400&u=08e53caec09bfdf39c55c664353d217dd2e9bdbe&v=4) |
 | Leticia Olivera | She/Her | Daria | [@LeticiaOlivera](https://github.com/LeticiaOlivera)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/106000118?s=400&u=f73f0e7f6f7dbad5f3883ce988467d017801c716&v=4)) |
-<<<<<<< HEAD
 | Lucero Luciano | She/Her | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![](https://avatars.githubusercontent.com/u/83784155?s=96&v=4)|
-=======
 | Jesús A. Rodríguez  | He / El  | Avatar: la leyenda de Aang | [@JARR97](https://github.com/JARR97)| ![](https://avatars.githubusercontent.com/JARR97?s=64) 
 | Lucero Luciano | She/Ella | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/83784155?s=400&u=5acda789d6e653941b65be7c6012a10371ab75e9&v=4)) |
->>>>>>> e8965c827fe24bf093d8c5651164c452fe136180
+
 
 
 
