@@ -4,6 +4,7 @@
 | Emilio Martínez | él  | Phineas & Ferb | [@emilio17mc](https://github.com/emilio17mc)| ![](https://avatars.githubusercontent.com/emilio17mc?s=64) |
 | Maria Daniela | ella / ellas  | Un show más | [@Ma-Daniela30](https://github.com/Ma-Daniela30)| ![](https://avatars.githubusercontent.com/Ma-Daniela30) |
 | Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
+| Felix Tonche  | He / El  | Kick Buttowski | [@ToncheFelix](https://github.com/ToncheFelix)| ![](https://avatars.githubusercontent.com/u/60750100?s=96&v=4) |
 | FernandaOchoa  | She / Ella  | Octogatos | [@FernandaOchoa](https://github.com/FernandaOchoa)| ![](https://avatars.githubusercontent.com/u/9124597?s=400&u=2a0671c4aa1a123f3e09021dcc0d2423a1d4cba1&v=4) |
 | Carlos Guzmán | He / El  | Rick y Morty | [@charlyguz](https://github.com/charlyguz)| ![](| Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
 ) |
