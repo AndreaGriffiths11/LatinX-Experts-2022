@@ -2,6 +2,7 @@
 |---|---|---|---|---|
 | Andrea Griffiths | ella / ellas  | animaniacs | [@andreagriffiths11](https://github.com/andreagriffiths11)| ![](https://avatars.githubusercontent.com/andreagriffiths11?s=64) |
 | Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
+| Abigail Muñoz | She / Ella  | Jimmy Neutron | [@AbigailMRod](https://github.com/AbigailMRod)| 
 | Erick De Jesus  | He / El  | MuchaLucha | [@3rickDJ](https://github.com/3rickDJ)| ![](https://avatars.githubusercontent.com/3rickDJ?s=100)|
 | Mika Rodríguez  | Él/Elle | Los Simpsons | [@mikaelzen](https://github.com/mikaelzen)| ![](https://avatars.githubusercontent.com/u/68354235?v=4](https://avatars.githubusercontent.com/mikaelzen?s=64) |
 | José Antonio Gómez Castillo  | He / El  | Phineas y Ferb | [@JosAnGoCa](https://github.com/JosAnGoCa)| ![](https://avatars.githubusercontent.com/u/91902354?v=4) |
@@ -24,3 +25,4 @@
 | Lucero Luciano | She/Her | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![](https://avatars.githubusercontent.com/u/83784155?s=96&v=4)|
 | Jesús A. Rodríguez  | He / El  | Avatar: la leyenda de Aang | [@JARR97](https://github.com/JARR97)| ![](https://avatars.githubusercontent.com/JARR97?s=64) 
 | Lucero Luciano | She/Ella | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/83784155?s=400&u=5acda789d6e653941b65be7c6012a10371ab75e9&v=4)) |
+
