@@ -3,6 +3,7 @@
 | Andrea Griffiths | ella / ellas  | animaniacs | [@andreagriffiths11](https://github.com/andreagriffiths11)| ![](https://avatars.githubusercontent.com/andreagriffiths11?s=64) |
 | Maria Daniela | ella / ellas  | Un show más | [@Ma-Daniela30](https://github.com/Ma-Daniela30)| ![](https://avatars.githubusercontent.com/Ma-Daniela30) |
 | Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
+| FernandaOchoa  | She / Ella  | Octogatos | [@FernandaOchoa](https://github.com/FernandaOchoa)| ![](https://avatars.githubusercontent.com/u/9124597?s=400&u=2a0671c4aa1a123f3e09021dcc0d2423a1d4cba1&v=4) |
 | Carlos Guzmán | He / El  | Rick y Morty | [@charlyguz](https://github.com/charlyguz)| ![](| Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
 ) |
 | Jade Navarro  | They / Elle  | Steven Universe | [@lysnbrl](https://github.com/lysnbrl)| ![](https://avatars.githubusercontent.com/u/101600385?v=4) |
@@ -33,3 +34,4 @@
 | Lucero Luciano | She/Her | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![](https://avatars.githubusercontent.com/u/83784155?s=96&v=4)|
 | Jesús A. Rodríguez  | He / El  | Avatar: la leyenda de Aang | [@JARR97](https://github.com/JARR97)| ![](https://avatars.githubusercontent.com/JARR97?s=64) 
 | Lucero Luciano | She/Ella | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/83784155?s=400&u=5acda789d6e653941b65be7c6012a10371ab75e9&v=4)) |
+
