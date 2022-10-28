@@ -3,6 +3,7 @@
 | Andrea Griffiths | ella / ellas  | animaniacs | [@andreagriffiths11](https://github.com/andreagriffiths11)| ![](https://avatars.githubusercontent.com/andreagriffiths11?s=64) |
 | Maria Daniela | ella / ellas  | Un show más | [@Ma-Daniela30](https://github.com/Ma-Daniela30)| ![](https://avatars.githubusercontent.com/Ma-Daniela30) |
 | Oswaldo Ivann  | He / El  | Adventure Time | [@Oswaldoivann](https://github.com/Oswaldoivann)| ![](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/perfil.jpg) |
+| Jade Navarro  | They / Elle  | Steven Universe | [@lysnbrl](https://github.com/lysnbrl)| ![](https://avatars.githubusercontent.com/u/101600385?v=4) |
 | RicardoUValencia  | He / El  | Mansion Foster | [@RicardoUValencia](https://github.com/RicardoUValencia)| ![](https://avatars.githubusercontent.com/u/87098001?v=4) |
 | Raul Barragan  | He / El  | Gravity Falls | [@rb4rr4g4n00](https://github.com/rb4rr4g4n00)| ![](https://avatars.githubusercontent.com/u/99059912?v=4) |
 | Abigail Muñoz | She / Ella  | Jimmy Neutron | [@AbigailMRod](https://github.com/AbigailMRod)| 
@@ -30,5 +31,4 @@
 | Lucero Luciano | She/Her | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![](https://avatars.githubusercontent.com/u/83784155?s=96&v=4)|
 | Jesús A. Rodríguez  | He / El  | Avatar: la leyenda de Aang | [@JARR97](https://github.com/JARR97)| ![](https://avatars.githubusercontent.com/JARR97?s=64) 
 | Lucero Luciano | She/Ella | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/83784155?s=400&u=5acda789d6e653941b65be7c6012a10371ab75e9&v=4)) |
-
 
