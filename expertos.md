@@ -36,4 +36,5 @@
 | Lucero Luciano | She/Her | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![](https://avatars.githubusercontent.com/u/83784155?s=96&v=4)|
 | Jesús A. Rodríguez  | He / El  | Avatar: la leyenda de Aang | [@JARR97](https://github.com/JARR97)| ![](https://avatars.githubusercontent.com/JARR97?s=64) 
 | Lucero Luciano | She/Ella | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/83784155?s=400&u=5acda789d6e653941b65be7c6012a10371ab75e9&v=4)) |
+| FabiMateosCat  | She / Ella  | Adventure Time | [@FabiMateosCat](https://github.com/FabiMateosCat)| ![](https://avatars.githubusercontent.com/u/99370914?s=400&u=731c4cfea7da733416b2e01298af29a5f47c1d9d&v=4) |
 
